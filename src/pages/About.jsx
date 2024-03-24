@@ -3,7 +3,7 @@ import { BigGradientText, CenterText } from "../Styles";
 const About = () => {
   return (
       <CenterText>
-        <BigGradientText>About Us</BigGradientText>
+        <BigGradientText>About Us1</BigGradientText>
       </CenterText>
   );
 };
