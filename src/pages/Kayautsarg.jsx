@@ -1,11 +1,14 @@
 import { BigGradientText, CenterText } from "../Styles";
 
-const About = () => {
+const Kayautsarg = () => {
   return (
       <CenterText>
-        <BigGradientText>About Us</BigGradientText>
+        <BigGradientText>Kayautsarg</BigGradientText>
       </CenterText>
   );
 };
 
-export default About;
+export default Kayautsarg;
+
+
+

@@ -1,11 +1,11 @@
 import { BigGradientText, CenterText } from "../Styles";
 
-const About = () => {
+const Sidh = () => {
   return (
       <CenterText>
-        <BigGradientText>About Us</BigGradientText>
+        <BigGradientText>Sidh</BigGradientText>
       </CenterText>
   );
 };
 
-export default About;
+export default Sidh;

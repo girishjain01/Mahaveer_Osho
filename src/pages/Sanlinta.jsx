@@ -1,11 +1,13 @@
 import { BigGradientText, CenterText } from "../Styles";
 
-const About = () => {
+const Sanlinta = () => {
   return (
       <CenterText>
-        <BigGradientText>About Us</BigGradientText>
+        <BigGradientText>Sanlinta</BigGradientText>
       </CenterText>
   );
 };
 
-export default About;
+export default Sanlinta;
+
+
