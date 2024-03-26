@@ -33,6 +33,7 @@ import Vartisanshep from './pages/Vartisanshep';
 import Rashprityag from './pages/Rashprityag';
 import Kayakalesh from './pages/Kayakalesh';
 import Sanlinta from './pages/Sanlinta';
+import Footer from './components/Footer/Footer';
 
 const App = () => {
   return (
@@ -71,31 +72,9 @@ const App = () => {
       <Route path='/antrangtap/swadhaya' element={<Swadhaya/>} />
       <Route path='/antrangtap/samayik' element={<Samayik/>} />
       <Route path='/antrangtap/kayautsarg' element={<Kayautsarg/>} />
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      Sayam
       </Routes>
+      <Footer />
     </Router>
-    
   );
 };
 

@@ -1,24 +1,13 @@
-import { BigGradientText, CenterText } from "../Styles";
+// import { BigGradientText, CenterText } from "../Styles";
 
 const Dharam = () => {
   return (
-      <CenterText>
-        <BigGradientText>Dharam</BigGradientText>
-      </CenterText>
+    <div className="bg-green-500">Dharam</div>
+
+      // <CenterText>
+      //   <BigGradientText>Dharam</BigGradientText>
+      // </CenterText>
   );
 };
 
 export default Dharam;
-
-
-
-
-
-
-
-
-
-
-
-
-Dharam

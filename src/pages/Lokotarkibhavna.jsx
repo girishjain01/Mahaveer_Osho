@@ -1,10 +1,11 @@
-import { BigGradientText, CenterText } from "../Styles";
+// import { BigGradientText, CenterText } from "../Styles";
 
 const Lokotarkibhavna = () => {
   return (
-      <CenterText>
-        <BigGradientText>Lokotarkibhavna</BigGradientText>
-      </CenterText>
+    <div className="bg-green-500">Lokotarkibhavna</div>
+      // <CenterText>
+      //   <BigGradientText>Lokotarkibhavna</BigGradientText>
+      // </CenterText>
   );
 };
 
